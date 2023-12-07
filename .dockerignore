@@ -1,0 +1,17 @@
+
+/.git
+/backup/*
+/db/*
+/docker_volumes/*
+/initdb.d/*
+
+/docker-compose.*
+/Dockerfile*
+/.dockerignore
+/.env
+/.gitignore
+
+/apps/*
+/config/*
+/data/*
+/nextcloud/*
